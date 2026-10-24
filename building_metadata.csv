@@ -1,0 +1,6 @@
+building_id,building_name,total_area_sqm,occupancy_type,year_built
+1,Hall A,1500,Residential,2005
+2,Science Lab B,3500,Laboratory,2012
+3,Admin Main,1200,Office,1998
+4,Library West,2500,Educational,2015
+5,Engg Block,4000,Educational,2018

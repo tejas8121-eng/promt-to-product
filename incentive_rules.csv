@@ -1,0 +1,4 @@
+rule_id,incentive_type,threshold_metric,threshold_value,credit_points_per_unit
+1,Carbon Credit,electricity_kwh_reduction,10.0,5
+2,Energy Rebate,water_litres_reduction,15.0,2
+3,Waste reduction reward,recycled_kg_increase,50.0,10
